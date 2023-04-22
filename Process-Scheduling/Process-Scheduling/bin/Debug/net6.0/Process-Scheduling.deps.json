@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Process-Scheduling/1.0.0": {
+        "runtime": {
+          "Process-Scheduling.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Process-Scheduling/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

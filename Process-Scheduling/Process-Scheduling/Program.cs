@@ -53,8 +53,8 @@ class FCFS
         foreach (var entry in ganttChart)
         {
             Console.Write("[" + entry.Key + "-" + (entry.Key + 1) + "]: " + entry.Value + " ");
+         Console.WriteLine();
         }
-        Console.WriteLine();
     }
 }
 // SJF scheduling algorithm class

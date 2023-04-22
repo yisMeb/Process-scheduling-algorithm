@@ -1,0 +1,15 @@
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\bin\Debug\net6.0\Process-Scheduling.exe
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\bin\Debug\net6.0\Process-Scheduling.deps.json
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\bin\Debug\net6.0\Process-Scheduling.runtimeconfig.json
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\bin\Debug\net6.0\Process-Scheduling.dll
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\bin\Debug\net6.0\Process-Scheduling.pdb
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.csproj.AssemblyReference.cache
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.AssemblyInfo.cs
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.dll
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\refint\Process-Scheduling.dll
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.pdb
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\Process-Scheduling.genruntimeconfig.cache
+C:\Users\asus\Downloads\gituploads\Process-scheduling-Algorithm\Process-scheduling-algorithm\Process-Scheduling\Process-Scheduling\obj\Debug\net6.0\ref\Process-Scheduling.dll
